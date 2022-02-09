@@ -14,17 +14,21 @@ h1 {
     padding-top: 20px;
     padding-bottom: 20px;
     color: #fff;
-    background-color: #00c;
+    background-color: #c00;
     text-align: center;
-    outline: 1px solid #00c;
 }
 
 p#first {
     padding: 10px;
-    color: #00c;
+    color: #c00;
 }
 
 p#add {
     padding: 10px;
     color: #080;
+}
+
+p#subscribe {
+    padding: 10px;
+    color: #ff4389;
 }
