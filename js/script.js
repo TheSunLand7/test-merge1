@@ -13,5 +13,4 @@ class Animal {
 }
 
 const obj = new Animal("Buddy", 6);
-
 obj.showInfo();
