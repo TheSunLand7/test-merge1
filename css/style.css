@@ -11,6 +11,8 @@ body {
 }
 
 h1 {
+    padding-top: 20px;
+    padding-bottom: 20px;
     color: #fff;
     background-color: #00c;
     text-align: center;
@@ -18,9 +20,11 @@ h1 {
 }
 
 p#first {
+    padding: 10px;
     color: #00c;
 }
 
 p#add {
+    padding: 10px;
     color: #080;
 }
