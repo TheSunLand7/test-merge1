@@ -17,6 +17,10 @@ h1 {
     outline: 1px solid #00c;
 }
 
-p {
+p#first {
     color: #00c;
+}
+
+p#add {
+    color: #080;
 }

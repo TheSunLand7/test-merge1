@@ -1,4 +1,4 @@
-let container = document.getElementById('container');
+let add = document.getElementById('add');
 
 //Creating class
 class Animal {
@@ -8,7 +8,7 @@ class Animal {
     }
 
     showInfo() {
-        container.innerHTML += `Wow! my name is ${this.name} and I am ${this.age} years old.`;
+        add.innerHTML += `Wow! my name is <b>${this.name}</b> and I am <b>${this.age}</b> years old.`;
     }
 }
 
