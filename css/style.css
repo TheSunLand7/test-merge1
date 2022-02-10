@@ -18,17 +18,24 @@ h1 {
     text-align: center;
 }
 
-p#first {
+p{
     padding: 10px;
+}
+
+p#first {
     color: #c00;
 }
 
-p#add {
+#second{
     padding: 10px;
+    color: #aa0;
+    font-family: 'Quintessential', cursive;
+}
+
+p#add {
     color: #080;
 }
 
 p#subscribe {
-    padding: 10px;
     color: #ff4389;
 }
