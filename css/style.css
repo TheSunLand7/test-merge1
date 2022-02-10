@@ -1,7 +1,7 @@
 body {
     font-family: sans-serif;
     font-size: 24px;
-    background-color: #333
+    background-color: #333;
 }
 
 #container {
@@ -14,16 +14,28 @@ h1 {
     padding-top: 20px;
     padding-bottom: 20px;
     color: #fff;
-    background-color: #00c;
+    background-color: #c00;
     text-align: center;
 }
 
-p#first {
+p{
     padding: 10px;
-    color: #00c;
+}
+
+p#first {
+    color: #c00;
+}
+
+#second{
+    padding: 10px;
+    color: #aa0;
+    font-family: 'Quintessential', cursive;
 }
 
 p#add {
-    padding: 10px;
     color: #080;
+}
+
+p#subscribe {
+    color: #ff4389;
 }
