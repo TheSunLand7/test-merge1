@@ -39,3 +39,7 @@ p#add {
 p#subscribe {
     color: #ff4389;
 }
+
+p#img-container {
+    text-align: center;
+}
